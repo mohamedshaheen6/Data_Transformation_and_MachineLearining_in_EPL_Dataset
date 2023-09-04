@@ -1,3 +1,3 @@
 # Data_Transformation_and_MachineLearining_in_EPL_Dataset
 Jupyter Notebook
-data set contain the match stats of clubs played in English Premier League.
+data set contain the match stats of all English Premier League tournament.
